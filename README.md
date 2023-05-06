@@ -9,6 +9,8 @@ A Ticket Reservation Data Base to be used by Multiple Airline Companies from dif
 <img width="1439" alt="Slide 1" src="Images/Slide 1.png">
 <img width="1439" alt="ER Model" src="Images/ER Model.png">
 <img width="1439" alt="Relational Schema" src="Images/Relational Schema.png">
-<img width="1439" alt="Slide 1" src="Images/Slide 1.png">
+<img width="1439" alt="Slide 2" src="Images/Slide 2.png">
+<img width="1439" alt="Slide 3" src="Images/Slide 3.png">
+<img width="1439" alt="Slide 4" src="Images/Slide 4.png">
 
 
