@@ -7,5 +7,8 @@ A Ticket Reservation Data Base to be used by Multiple Airline Companies from dif
 - Joshua Pauldin
 
 <img width="1439" alt="Slide 1" src="Images/Slide 1.png">
+<img width="1439" alt="ER Model" src="Images/ER Model.png">
+<img width="1439" alt="Relational Schema" src="Images/Relational Schema.png">
+<img width="1439" alt="Slide 1" src="Images/Slide 1.png">
 
 
